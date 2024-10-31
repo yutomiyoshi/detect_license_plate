@@ -8,4 +8,4 @@
 
 Python 3.11
 
-Jupyter lab
+Jupyter notebook
