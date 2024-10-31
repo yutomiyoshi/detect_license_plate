@@ -10,5 +10,11 @@
         "path": "category1.png",
         "a_score": 123.06975371120107,
         "b_score": 184.37862685560054
+    },
+    {
+        "name": "normal_business",
+        "path": "category2.png",
+        "a_score": 110.25025303643724,
+        "b_score": 137.2295883940621
     }
 ]
