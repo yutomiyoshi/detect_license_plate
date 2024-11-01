@@ -9,3 +9,7 @@
 Python 3.11
 
 Jupyter notebook
+
+### 手順
+
+main.ipynb のガイドに沿って実行。
